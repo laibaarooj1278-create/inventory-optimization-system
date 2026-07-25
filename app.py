@@ -4,6 +4,11 @@ import plotly.express as px
 import sys
 import os
 
+print("Current folder:", os.getcwd())
+print("Files:", os.listdir("."))
+print("Python folder exists:", os.path.exists("Python"))
+print("Results folder exists:", os.path.exists("results"))
+
 # Absolute path of project folder
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
