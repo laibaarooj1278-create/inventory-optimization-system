@@ -1,0 +1,6 @@
+inventory_id,product_id,current_stock,safety_stock,reorder_point,maximum_stock,minimum_stock,warehouse_location,last_updated
+1,1,160,30,50,300,20,Warehouse A,2026-07-25 00:13:12.297923
+2,2,80,20,40,200,15,Warehouse A,2026-07-25 00:13:12.297923
+3,3,60,15,35,150,10,Warehouse B,2026-07-25 00:13:12.297923
+4,4,40,10,25,100,5,Warehouse B,2026-07-25 00:13:12.297923
+5,5,10,2,5,20,1,Warehouse C,2026-07-25 00:13:12.297923
